@@ -1,6 +1,6 @@
 <?php
 include 'header.php';  // Include the navigation bar
-include 'db_connection.php';  // Include the database connection
+include 'db_test.php';  // Include the database connection bug solve
 
 // Fetch home and kitchen products from the database
 $sql = "SELECT * FROM products WHERE category = 'Home & Kitchen'";
