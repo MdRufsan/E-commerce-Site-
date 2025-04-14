@@ -1,6 +1,6 @@
 <?php
 session_start();
-include 'db_connection.php'; // Database connection
+include 'db_test.php'; // Database connection bug fix
 
 // If user is not logged in, redirect to login page
 if (!isset($_SESSION['user_id'])) {
