@@ -2,7 +2,7 @@
 <footer class="bg-dark text-white text-center py-4">
     <div class="container">
         <p>&copy; 2024 E-Commerce Store. All rights reserved.</p>
-        <p><a href="about.php" class="text-white">About Us</a> | <a href="contact.php" class="text-white">Contact Us</a> | <a href="privacy.php" class="text-white">Privacy Policy</a></p>
+        <p><a href="aboutUs.php" class="text-white">About Us</a> | <a href="contact.php" class="text-white">Contact Us</a> | <a href="privacy.php" class="text-white">Privacy Policy</a></p>
     </div>
 </footer>
 
